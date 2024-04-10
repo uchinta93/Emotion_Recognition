@@ -10,10 +10,6 @@
 
 
 
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/Happy.PNG)
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/angry.PNG)
-
-
 
 
 <a id="p1"></a> 
